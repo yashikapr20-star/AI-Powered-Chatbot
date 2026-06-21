@@ -27,7 +27,7 @@ This project is a simple AI-powered chatbot that interacts with users and provid
 
    py -m streamlit run chatbot.py
 
-3. Open http://localhost:8502
+3. Open http://localhost:8501
 in your browser.
 
 4. Start chatting with the bot.
